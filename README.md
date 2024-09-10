@@ -1,1 +1,2 @@
-# Chess-Mastermind
+# Chess Mastermind
+A web-based chess application featuring an AI-powered chess bot, currently a work in progress! The backend uses Node.js and Express, while the frontend leverages HTML, CSS, and JavaScript to create an interactive chessboard. The AI is implemented using the minimax algorithm with alpha-beta pruning to make competitive moves. The project aims to explore AI and game development techniques, with plans to improve the bot’s strategic depth and evaluation function. Future updates will enhance the AI’s gameplay and user experience.
